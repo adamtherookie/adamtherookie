@@ -6,7 +6,7 @@
 ### Hi there 👋
 Here are some ideas to get you started:
 
-- I\m currently working on [DaggerOS](https://github.com/The-Dagger-Project/DaggerOS) and [Dagger Lang](https://github.com/The-Dagger-Project/Dagger-Lang)
+- I'm currently working on [DaggerOS](https://github.com/The-Dagger-Project/DaggerOS) and [Dagger Lang](https://github.com/The-Dagger-Project/Dagger-Lang)
 - 🌱 I’m currently learning Shell, Assembly, and the principles of OSDev
 - 👯 I’m looking to collaborate on all sorts of Projects (mostly C, and web development)
 - 📫 How to reach me: Discord -> AdamTheRookie#7765
