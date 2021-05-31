@@ -10,3 +10,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Shell, Assembly, and the principles of OSDev
 - 👯 I’m looking to collaborate on all sorts of Projects (mostly C, and web development)
 - 📫 How to reach me: Discord -> AdamTheRookie#7765
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aa2006&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
