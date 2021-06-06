@@ -7,8 +7,8 @@
 I am a highschool student from 🇲🇦 interested in open-source software, especially high level C development. 
 Here are some ideas about me get you started:
 
-- I'm currently working on [DaggerOS](https://github.com/The-Dagger-Project/DaggerOS) and [Dagger Lang](https://github.com/The-Dagger-Project/Dagger-Lang)
-- 🌱 I’m currently learning Shell, Assembly, and the principles of OSDev
+- I'm currently working on [CCE](https://github.com/cheese-chess/cheese_chess) and [SmolCoin](https://github.com/SmolCoin/SmolCoin)
+- 🌱 I’m currently learning Go, Typescript, and the principles of OSDev
 - 👯 I’m looking to collaborate on all sorts of Projects (mostly C, and web development)
 - 📫 How to reach me: Discord -> AdamTheRookie#7765
 
