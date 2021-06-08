@@ -12,4 +12,10 @@ Here are some ideas about me get you started:
 - 👯 I’m looking to collaborate on all sorts of Projects (mostly C, and web development)
 - 📫 How to reach me: Discord -> AdamTheRookie#7765
 
+### I talk many languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aa2006&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### My Trophies :)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=aa2006&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
