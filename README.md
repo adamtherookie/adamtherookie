@@ -11,7 +11,7 @@ Here are some ideas about me get you started:
 - 🌱 I’m currently learning Go, Typescript, the principles of OSDev, and some Game Development stuff. *stuff*
 - 👯 I’m looking to collaborate on all sorts of Projects (mostly C, and web development)
 - 📫 How to reach me: Discord -> AdamTheRookie#7765
-- 
+ 
 ### My Trophies :)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aa2006&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
