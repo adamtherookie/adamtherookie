@@ -7,7 +7,7 @@
 I am a highschool student from 🇲🇦 interested in open-source software, especially high level C development. 
 Here are some ideas about me get you started:
 
-- I'm currently working on [CCE](https://github.com/cheese-chess/cheese_chess), [SmolCoin](https://github.com/SmolCoin/SmolCoin), and [Don't Break 'Em All](https://github.com/aa2006/Don-t-Break-Em-All)
+- Check my pins to see what I'm currently working on.
 - 🌱 I’m currently learning Go, Typescript, the principles of OSDev, and some Game Development stuff. *stuff*
 - 👯 I’m looking to collaborate on all sorts of Projects (mostly C, and web development)
 - 📫 How to reach me: Discord -> AdamTheRookie#7765
