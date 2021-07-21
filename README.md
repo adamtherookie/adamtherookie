@@ -4,7 +4,7 @@
 [![](https://raw.githubusercontent.com/aa2006/aa2006/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/aa2006/aa2006/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ### Hi there 👋
-I am a highschool student from 🇲🇦 interested in open-source software, especially high level C development. 
+I am a highschool student from 🇲🇦 interested in open-source software, especially high level C development and *some* web dev. 
 Here are some ideas about me get you started:
 
 - Check my pins to see the wierd stuff I make.
