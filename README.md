@@ -7,7 +7,7 @@
 I am a highschool student from 🇲🇦 interested in open-source software, especially high level C development and *some* web dev. 
 Here are some ideas about me get you started:
 
-- Check my pins to see the wierd stuff I make.
+- I'm currently working on [Cheese Chess Engine](https://github.com/cheese-chess/cheese_chess).
 - 🌱 I’m currently learning Go, ~~Typescript~~ (I HATE TYPESCRIPT AFTER WHAT HAPPENED IN [GMTK 2021](https://github.com/unsafecast/gmtk2021)), the principles of OSDev, and some Game Development stuff. *stuff*. (I think I'm going to learn Rust and Forth :/)
 - 👯 I’m looking to collaborate on all sorts of Projects (mostly C, and web development)
 - 📫 How to reach me: Discord -> AdamTheRookie#7765
