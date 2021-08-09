@@ -8,7 +8,7 @@ I am a highschool student from 🇲🇦 interested in open-source software, espe
 Here are some ideas about me get you started:
 
 - I'm currently working on [Cheese Chess Engine](https://github.com/cheese-chess/cheese_chess).
-- 🌱 I’m currently learning Go, ~~Typescript~~ (I HATE TYPESCRIPT AFTER WHAT HAPPENED IN [GMTK 2021](https://github.com/unsafecast/gmtk2021)), the principles of OSDev, and some Game Development stuff. *stuff*. (I think I'm going to learn Rust and Forth :/)
+- 🌱 I’m currently learning Go, ~~Typescript~~ (I HATE TYPESCRIPT AFTER WHAT HAPPENED IN [GMTK 2021](https://github.com/unsafecast/gmtk2021)), the principles of OSDev, and some Game Development stuff. (I think I'm going to learn Rust and Forth :/)
 - 👯 I’m looking to collaborate on all sorts of Projects (mostly C, and web development)
 - 📫 How to reach me: Discord -> AdamTheRookie#7765
 - Please consider [donating](https://www.buymeacoffee.com/adamtherookie)
