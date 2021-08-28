@@ -11,7 +11,6 @@ Here are some ideas about me get you started:
 - 🌱 I’m currently learning Go, ~~Typescript~~ (I HATE TYPESCRIPT AFTER WHAT HAPPENED IN [GMTK 2021](https://github.com/unsafecast/gmtk2021)), the principles of OSDev, and some Game Development stuff. (I think I'm going to learn Rust and Forth :/)
 - 👯 I’m looking to collaborate on all sorts of Projects (mostly C, and web development)
 - 📫 How to reach me: Discord -> AdamTheRookie#7765
-- Please consider [donating](https://www.buymeacoffee.com/adamtherookie)
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=aa2006&&style=flat-square) 
  
