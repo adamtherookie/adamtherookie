@@ -7,7 +7,7 @@
 I am a highschool student interested in open-source software, especially high level C development and *some* web dev. 
 Here are some ideas about me get you started:
 
-- I'm currently working on [Cheese Chess Engine](https://github.com/cheese-chess/cheese_chess).
+- I'm currently working on [Peregrine](https://github.com/peregrine-chess/peregrine-chess).
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on all sorts of Projects (mostly C, and web development)
 - 📫 How to reach me: Discord -> AdamTheRookie#7765
