@@ -7,8 +7,8 @@
 I am a highschool student interested in open-source software, especially high level C development and *some* web dev. 
 Here are some ideas about me get you started:
 
-- I'm currently working on [weem](https://github.com/adamtherookie/weem).
-- 🌱 I’m currently learning x86_64 asm
+- I'm currently working on [Linkr](https://github.com/adamtherookie/linkr).
+- 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on all sorts of Projects (mostly C, and web development)
 - 📫 How to reach me: Discord -> AdamTheRookie#7765
 
