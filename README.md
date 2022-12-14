@@ -7,7 +7,7 @@
 I am a high school student interested in open-source software, especially high level C development and *some* web dev. 
 Here are some ideas about me get you started:
 
-- I'm currently working on [Linkr](https://github.com/adamtherookie/linkr).
+- I'm currently working on [Linksharin'](https://github.com/adamtherookie/linksharin).
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on all sorts of Projects (mostly C, and web development)
 - 📫 How to reach me: Discord -> AdamTheRookie#7765
