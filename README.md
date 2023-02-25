@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Linksharin'](https://www.linkshar.in)
 
-- 🌱 I’m currently learning **Django** and **x86_64 ASM**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **Discord: adamtherookie#7765**
 
