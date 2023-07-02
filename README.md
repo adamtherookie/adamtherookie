@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm adamtherookie</h1>
 
-- 🔭 I’m currently working on [Linksharin'](https://www.linkshar.in)
+- 🔭 I’m currently working on [weem](https://www.github.com/adamtherookie/weem)
 
 - 🌱 I’m currently learning **Rust**
 
