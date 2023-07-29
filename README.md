@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [weem](https://www.github.com/adamtherookie/weem)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **OCaml**
 
 - 📫 How to reach me **Discord: adamtherookie#7765**
 
