@@ -11,4 +11,4 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,python,flask,django,bootstrap,bash,git,godot,heroku,latex,linux,postgres,sqlite&perline=9">
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamtherookie&show_icons=true&locale=en&layout=compact&theme=transparent" alt="adamtherookie" /></p>
+<p><img align="center" src="https://myreadme.vercel.app/api/embed/adamtherookie?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="adamtherookie" /></p>
