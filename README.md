@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [weem](https://www.github.com/adamtherookie/weem)
 
-- 🌱 I’m currently learning **OCaml**
+- 🌱 I’m currently learning **toki pona** and **OCaml**
 
 - 📫 How to reach me **Discord: adamtherookie**
 
